@@ -12,7 +12,7 @@ A values-based, developmental framework for ethical, strategic, and creative use
 
 The authoritative, up-to-date home of the **CloudPedagogy AI Capability Framework (2026 Edition)** is:
 
-**https://cloudpedagogy.com/ai-capability-framework**
+**https://www.cloudpedagogy.com/pages/ai-capability-framework**
 
 The CloudPedagogy website provides the full framework narrative, toolkits, practice guides, governance resources, and free courses.  
 This GitHub repository provides the openly licensed **source files** and **archival releases**.
