@@ -1,80 +1,90 @@
 # CloudPedagogy AI Capability Framework (2026 Edition)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17833663.svg)](https://doi.org/10.5281/zenodo.17833663)
-
-**DOI (All Versions): https://doi.org/10.5281/zenodo.17833663**
+**Concept DOI (all versions):** https://doi.org/10.5281/zenodo.17833663
 
 A values-based, developmental framework for ethical, strategic, and creative use of artificial intelligence across education, research, public services, and the wider public good.
 
 This repository contains the official, openly licensed publication of the **CloudPedagogy AI Capability Framework (2026 Edition)** and its companion resources.  
-All materials are free to download, adapt, and remix under the **CC BY-NC-SA 4.0** licence.
+All materials are free to download, adapt, and remix for non-commercial use under the **Creative Commons CC BY-NC-SA 4.0** licence.
 
 ---
 
 ## 📘 About the Framework
 
-The Framework provides a structured, future-ready model for building responsible, ethical, and transparent AI capability across complex professional environments.
+The CloudPedagogy AI Capability Framework provides a structured, future-ready model for building responsible, ethical, and transparent AI capability across complex professional environments.
 
 It defines **six interdependent capability domains**:
 
-1. **AI Awareness & Orientation**  
-2. **Human–AI Co-Agency**  
-3. **Generative Practice & Innovation**  
-4. **Ethics, Equity & Impact**  
-5. **Decision-Making & Governance**  
-6. **Reflection, Learning & Renewal**
+- AI Awareness & Orientation  
+- Human–AI Co-Agency  
+- Applied Practice & Innovation  
+- Ethics, Equity & Impact  
+- Decision-Making & Governance  
+- Reflection, Learning & Renewal  
 
-The Framework supports capability-building across:
+The Framework supports capability development across higher education, research, public services, healthcare, NGOs, digital learning, CPD, and organisational strategy.
 
-- Higher education and academic development  
-- Research and scholarly communication  
-- Public services and government  
-- Healthcare, NGOs, and humanitarian sectors  
-- Digital learning, CPD, and organisational strategy  
-
-Grounded in ecological learning, systems thinking, and ethical foresight, the Framework helps individuals and organisations move beyond tool-focused AI training toward applied, adaptive, and values-aligned AI capability.
+Grounded in ecological learning, systems thinking, and ethical foresight, the Framework helps individuals and organisations move beyond tool-focused AI training toward **applied, reflective, and values-aligned AI capability**.
 
 ---
 
-## 📄 Core Framework Downloads
+## 📁 Repository Structure & Contents
 
-### **Canonical Framework (PDF)**  
-👉 `AI-Capability-Framework-2026.pdf`
+This repository is organised into four key folders:
 
-### **Institutional Overview & Value Guide**  
-👉 `AI-Capability-Framework-Overview-2026.pdf`
+### `/core` — Canonical Framework Documents  
+Authoritative, foundational publications that define the Framework:
 
----
-
-## 📚 Companion Guides & Handbooks
-
-### 1. **Application Handbook (Full Version)**  
-👉 `AI CAPABILITY FRAMEWORK APPLICATION HANDBOOK.pdf`
-
-### 2. **Executive Summary (Leadership Edition)**  
-👉 `AI Capability Framework Application Handbook — Executive Summary.pdf`
-
-### 3. **Quick Reference Guide for Course Designers**  
-👉 `AI Capability Framework — Quick Reference Guide for Course Designers.pdf`
+- AI-Capability-Framework-2026.pdf  
+- AI-Capability-Framework-2026.docx  
+- AI-Capability-Framework-Overview-2026.pdf  
+- AI-Capability-Framework-Overview-2026.docx  
 
 ---
 
-## 🧰 Toolkit Bundle (ZIP)
+### `/application` — Application Handbook & Executive Summary  
+Applied guidance for institutional and organisational use:
 
-A consolidated collection of tools, templates, scenarios, examples, and workshop resources.
-
-👉 `framework toolkit.zip`
-
-Additional supplementary materials are also available via the GitHub release ZIP.
+- AI CAPABILITY FRAMEWORK APPLICATION HANDBOOK.pdf  
+- AI CAPABILITY FRAMEWORK APPLICATION HANDBOOK.docx  
+- AI Capability Framework Application Handbook — Executive Summary.pdf  
+- AI Capability Framework Application Handbook — Executive Summary.docx  
 
 ---
 
-## 🎓 Free Orientation Course
+### `/toolkit` — Tools, Templates & Worksheets  
+Modular resources supporting practical application of the Framework:
 
-A self-paced introductory course covering the six domains, applied examples, and institutional use.
+- Self-Assessment Matrix (Worksheet)  
+- Scenario-Based Workshop Guides  
+- Reflection Toolkit  
+- Governance & Ethics Templates  
+- Applied Examples Case Pack  
+- AI Interaction & Design Toolkit  
+- Resource Index & Glossary  
 
-👉 https://www.cloudpedagogy.com/ai-capability-framework  
-*(Replace with Thinkific URL if different.)*
+(All provided as individual `.docx` files for flexible use.)
+
+---
+
+### `/practice-guides` — Role- & Context-Specific Practice Guides (PDF + Word)
+
+Short, applied guides demonstrating how to use the Framework in real-world contexts.  
+Each guide is provided in **both PDF (stable)** and **Word (editable)** formats.
+
+Included guides:
+
+- Teaching  
+- Research  
+- Governance & Decision-Making  
+- Leadership & Strategy  
+- Individual Practice  
+- Business & Entrepreneurship  
+- High-Risk or Public-Impact Contexts  
+
+Also includes:
+
+- Quick Reference Guide for Course Designers (PDF + Word)
 
 ---
 
@@ -82,33 +92,32 @@ A self-paced introductory course covering the six domains, applied examples, and
 
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY-NC-SA 4.0)**
 
-You may remix and adapt the materials for non-commercial purposes with attribution and under the same licence.
-
-For commercial licensing, consultancy, or institutional partnerships:  
-📩 **info@cloudpedagogy.com**
+You may copy, adapt, and remix these materials for non-commercial purposes with attribution and under the same licence.
 
 ---
 
 ## 🧭 Citation
 
-### **Preferred Citation (All-Versions DOI)**  
+**Preferred citation (Concept DOI):**  
 Wong, J. (2025). *CloudPedagogy AI Capability Framework (2026 Edition).* Zenodo.  
 https://doi.org/10.5281/zenodo.17833663
 
-### **Version-Specific Citation (v1.2)**  
+**Version-specific citation (example):**  
 Wong, J. (2025). *CloudPedagogy AI Capability Framework (2026 Edition) (v1.2).* Zenodo.  
 https://doi.org/10.5281/zenodo.17834575
 
 ---
 
-## 🔄 Versioning
+## 🔄 Versioning & Archiving
 
-- **Current release:** v1.2 (2026 Edition)  
-- Earlier versions (v1.0, v1.1, v1.1.1) remain archived via Zenodo and GitHub Releases.
+- Stable releases are published via **GitHub Releases**  
+- Each release is automatically archived and assigned a DOI via **Zenodo**  
+- The Concept DOI remains constant across versions  
+- All historical versions remain permanently accessible  
 
 ---
 
-## 🌐 CloudPedagogy Website
+## 🌐 CloudPedagogy
 
-More frameworks, free courses, and resources:  
+More frameworks, free courses, and applied resources:  
 👉 https://www.cloudpedagogy.com
