@@ -107,24 +107,23 @@ Also included:
 
 ## 🔗 Related CloudPedagogy repositories
 
-This repository is the **canonical source** for the CloudPedagogy AI Capability Framework (2026 Edition).
+This repository is the canonical source for the **CloudPedagogy AI Capability Framework (2026 Edition)**.
 
-The following repositories provide **applied companion resources** derived from the Framework:
+The following repositories provide applied companion resources derived from the Framework:
 
-- **AI Capability Briefs**  
-  Short, role- and context-specific briefs supporting professional judgement and decision-making using the AI Capability Framework.  
-  https://github.com/cloudpedagogy/ai-capability-briefs
+### AI Capability Briefs
+Short, role- and context-specific briefs supporting professional judgement and decision-making using the AI Capability Framework.  
+https://github.com/cloudpedagogy/ai-capability-briefs
 
-- **AI Capability Framework Scenario Library**  
-  Facilitation-ready scenarios for applying the Framework in real professional settings, including recruitment, meetings, governance, leadership, teaching, and research.  
-  https://github.com/cloudpedagogy/ai-capability-framework-scenarios
+### AI Capability Framework – Scenario Library
+Facilitation-ready scenarios for applying the Framework in real professional settings, including recruitment, meetings, governance, leadership, teaching, and research.  
+https://github.com/cloudpedagogy/ai-capability-framework-scenarios
 
-- **CloudPedagogy n8n Workflows** *(under development)*  
-This n8n workflows repository translates these ideas into operational, human-in-the-loop systems, showing how AI capability can be enacted through everyday tools and processes.  
+### CloudPedagogy n8n Workflows *(under development)*
+This repository translates the Framework into operational, human-in-the-loop systems, demonstrating how AI capability can be enacted through everyday tools and processes.  
 https://github.com/cloudpedagogy/cloudpedagogy-n8n-workflows
 
-*Companion repositories extend the Framework into applied practice; this repository remains the authoritative reference for the framework model, domains, and core resources.*
-
+Companion repositories extend the Framework into applied practice; this repository remains the authoritative reference for the framework model, domains, and core resources.
 
 ---
 
